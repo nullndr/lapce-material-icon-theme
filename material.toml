@@ -5,48 +5,47 @@ name = "Material Icons"
 "settings" = "icons/settings.svg"
 
 [icon-theme.foldername]
+".cargo" = "icons/rust.svg"
 ".git" = "icons/folder-git.svg"
 ".github" = "icons/folder-github.svg"
 ".gitlab" = "icons/folder-gitlab.svg"
 ".vscode" = "icons/folder-vscode.svg"
-"icons" = "icons/folder-images.svg"
-"images" = "icons/folder-images.svg"
 
 "docs" = "icons/folder-docs.svg"
 
-".cargo" = "icons/rust.svg"
+"icons" = "icons/folder-images.svg"
+"images" = "icons/folder-images.svg"
 
 [icon-theme.filename]
 
-"CODEOWNERS" = "icons/codeowners.svg"
-"CONTRIBUTING" = "icons/contributing.svg"
-"README.md" = "icons/readme.svg"
-"LICENSE" = "icons/document.svg"
-"LICENCE" = "icons/document.svg"
-
-"Dockerfile" = "icons/docker.svg"
 ".gitignore" = "icons/git.svg"
 ".gitattributes" = "icons/git.svg"
-"Makefile" = "icons/makefile.svg"
+".rustfmt.toml" = "icons/rust.svg"
+".vercelignore" = "icons/vercel.svg"
+
+"biome.json" = "icons/biome.svg"
+"biome.jsonc" = "icons/biome.svg"
+"bun.lockb" = "icons/bun.svg"
+"bunfig.toml" = "icons/bun.svg"
+
+"Cargo.toml" = "icons/rust.svg"
+"Cargo.lock" = "icons/rust.svg"
+"CODEOWNERS" = "icons/codeowners.svg"
+"CONTRIBUTING" = "icons/contributing.svg"
+
+"Dockerfile" = "icons/docker.svg"
 "docs" = "icons/folder-docs.svg"
 
 "go.mod" = "icons/go-mod.svg"
 
-"Cargo.toml" = "icons/rust.svg"
-"Cargo.lock" = "icons/rust.svg"
-".rustfmt.toml" = "icons/rust.svg"
+"LICENSE" = "icons/document.svg"
+
+"Makefile" = "icons/makefile.svg"
+
+"README.md" = "icons/readme.svg"
 "rustfmt.toml" = "icons/rust.svg"
 
-"bun.lockb" = "icons/bun.svg"
-"bunfig.toml" = "icons/bun.svg"
-
-"biome.json" = "icons/biome.svg"
-"biome.jsonc" = "icons/biome.svg"
-
-".vercelignore" = "icons/vercel.svg"
-
 [icon-theme.extension]
-"spec" = "icons/xml.svg"
 
 "c" = "icons/c.svg"
 "cpp" = "icons/cpp.svg"
@@ -78,6 +77,7 @@ name = "Material Icons"
 
 "gitattributes" = "icons/git.svg"
 "gitignore" = "icons/git.svg"
+"graphql" = "icons/graphql.svg"
 
 "ico" = "icons/image.svg"
 
@@ -99,6 +99,8 @@ name = "Material Icons"
 "pptx" = "icons/powerpoint.svg"
 "pug" = "icons/pug.svg"
 
+"spec" = "icons/xml.svg"
+
 "toml" = "icons/document.svg"
 "tf" = "icons/terraform.svg"
 "ts" = "icons/typescript.svg"
@@ -116,5 +118,3 @@ name = "Material Icons"
 
 "zig" = "icons/zig.svg"
 "zip" = "icons/zip.svg"
-
-"graphql" = "icons/graphql.svg"
