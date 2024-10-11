@@ -40,6 +40,11 @@ name = "Material Icons"
 "bun.lockb" = "icons/bun.svg"
 "bunfig.toml" = "icons/bun.svg"
 
+"biome.json" = "icons/biome.svg"
+"biome.jsonc" = "icons/biome.svg"
+
+".vercelignore" = "icons/vercel.svg"
+
 [icon-theme.extension]
 "spec" = "icons/xml.svg"
 
@@ -111,3 +116,5 @@ name = "Material Icons"
 
 "zig" = "icons/zig.svg"
 "zip" = "icons/zip.svg"
+
+"graphql" = "icons/graphql.svg"
