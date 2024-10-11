@@ -3,8 +3,6 @@ name = "Material Icons"
 
 [icon-theme.ui]
 "settings" = "icons/settings.svg"
-"file" = "icons/file.svg"
-"directory_opened" = "icons/folder.svg"
 
 [icon-theme.foldername]
 ".git" = "icons/folder-git.svg"
@@ -84,7 +82,6 @@ name = "Material Icons"
 "svg" = "icons/svg.svg"
 "sass" = "icons/sass.svg"
 "scss" = "icons/sass.svg"
-"sh" = "icons/shell.svg"
 "svelte" = "icons/svelte.svg"
 "scm" = "icons/scheme.svg"
 
@@ -105,7 +102,7 @@ name = "Material Icons"
 "xml" = "icons/xml.svg"
 "xaml" = "icons/xaml.svg"
 
-"vue" = "icons/vue.png"
+"vue" = "icons/vue.svg"
 
 "wasm" = "icons/webassembly.svg"
 
