@@ -5,4 +5,4 @@ icon         = "logo.png"
 icon-themes  = ["material.toml"]
 name         = "lapce-material-icon-theme"
 repository   = "https://github.com/nullndr/lapce-material-icon-theme"
-version      = "0.0.2"
+version      = "0.0.3"
