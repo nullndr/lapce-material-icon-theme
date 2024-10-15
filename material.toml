@@ -394,6 +394,7 @@
 
     "androidmanifest.xml" = "icons/android.svg"
 
+    ".env"                   = "icons/tune.svg"
     ".env.alpha"             = "icons/tune.svg"
     ".env.defaults"          = "icons/tune.svg"
     ".env.dev"               = "icons/tune.svg"
