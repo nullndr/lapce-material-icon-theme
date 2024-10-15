@@ -770,8 +770,21 @@
     "meson.build"       = "icons/meson.svg"
     "meson_options.txt" = "icons/meson.svg"
 
-    ".commitlint.yaml" = "icons/commitlint.svg"
-    ".commitlint.yml"  = "icons/commitlint.svg"
+    ".commitlintrc"         = "icons/commitlint.svg"
+    ".commitlintrc.cjs"     = "icons/commitlint.svg"
+    ".commitlintrc.cts"     = "icons/commitlint.svg"
+    ".commitlintrc.js"      = "icons/commitlint.svg"
+    ".commitlintrc.json"    = "icons/commitlint.svg"
+    ".commitlintrc.mjs"     = "icons/commitlint.svg"
+    ".commitlintrc.ts"      = "icons/commitlint.svg"
+    ".commitlintrc.yaml"    = "icons/commitlint.svg"
+    ".commitlintrc.yml"     = "icons/commitlint.svg"
+    "commitlint.config.cjs" = "icons/commitlint.svg"
+    "commitlint.config.cts" = "icons/commitlint.svg"
+    "commitlint.config.js"  = "icons/commitlint.svg"
+    "commitlint.config.mjs" = "icons/commitlint.svg"
+    "commitlint.config.ts"  = "icons/commitlint.svg"
+
 
     ".buckconfig" = "icons/buck.svg"
 
